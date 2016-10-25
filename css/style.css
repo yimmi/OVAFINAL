@@ -370,7 +370,7 @@ p{
 	font-weight: bolder;
 	line-height: 24px;
 	padding: 10px;
-	text-align: justify;
+	text-align: left;
 }
 /*CLASES*/
 .ancho_menu_home{width: 900px;}
